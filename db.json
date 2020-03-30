@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-     { "filterName" : "Region",
+                  "filterName" : "Region",
                   "filterValues" : [ { "id" : 1, "value": "APAC", "isSelected": "true", "parentId" : null}, {"id": 2, "value" : "EMEA", "isSelected": "true", "parentId" : null } ]
                   "filterType" : "Dropdown",
                   "filterGroup":  "Geo"
@@ -41,12 +41,7 @@
                   "filterType" : "TextBox",
                   "filterGroup" : "PartNumber,
                }
-                  
-   
-
-}
-
-  ],
+             ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
