@@ -1,13 +1,10 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    }
+    {  "filterName" : "Region",
+                  "filterValues" : [ { "id" : 1, "value": "APAC", "isSelected": "true", "parentId" : null}, {"id": 2, "value" : "EMEA", "isSelected": "true", "parentId" : null } ],
+                  "filterType" : "Dropdown",
+                  "filterGroup":  "Geo"
+               }
   ],
   "comments": [
     {
