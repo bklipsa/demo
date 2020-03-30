@@ -40,11 +40,19 @@
                   "filterValues" : [ { "id" : 1, "value": "PartNumber1, partNumber2", "isSelected": "true", "parentId" : null}],
                   "filterType" : "TextBox",
                   "filterGroup" : "PartNumber,
-               }
-             ],
+              }
+  ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
