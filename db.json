@@ -1,7 +1,6 @@
 {
   "posts": [
-    {
-                  "filterName" : "Region",
+               {  "filterName" : "Region",
                   "filterValues" : [ { "id" : 1, "value": "APAC", "isSelected": "true", "parentId" : null}, {"id": 2, "value" : "EMEA", "isSelected": "true", "parentId" : null } ],
                   "filterType" : "Dropdown",
                   "filterGroup":  "Geo"
